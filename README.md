@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+🛠 Javascript, TypeScript, React, Redux, HTML, CSS, SASS/SCSS, Material UI, Tailwind CSS, Bootstrap, Webpack, Parcel, Vite (Rollup)
+
+---
+
+🎮 C++, Unreal Engine
+
+
 <!--
 **ProUnebit/ProUnebit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
