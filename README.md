@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🛠 Javascript, TypeScript, React, Redux, HTML, CSS, SASS/SCSS, Material UI, Tailwind CSS, Bootstrap, Webpack, Parcel, Vite (Rollup)
+👨🏼‍💻 Javascript, TypeScript, React, Redux, HTML, CSS, SASS/SCSS, Material UI, Tailwind CSS, Bootstrap, Webpack, Parcel, Vite (Rollup)
 
 ---
 
