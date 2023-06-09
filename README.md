@@ -1,5 +1,5 @@
-### Main Skills:
-👨🏼‍💻 Javascript, TypeScript, React, Redux, HTML, SASS/SCSS, Material UI, Tailwind CSS, Bootstrap, Webpack, Parcel, Vite (Rollup), Node.js
+### Main skills:
+👨🏼‍💻 JavaScript, TypeScript, React, Redux, HTML, SASS/SCSS, Material UI, Tailwind CSS, Bootstrap, Webpack, Parcel, Vite (Rollup), Node.js
 
 ---
 
