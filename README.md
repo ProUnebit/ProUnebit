@@ -1,4 +1,4 @@
-[**my resume...**](https://github.com/ProUnebit/Resume) 👈
+[**my resume**](https://github.com/ProUnebit/Resume) 👈
 
 ### Main skills:
 👨🏼‍💻 JavaScript, TypeScript, React, Redux, HTML, SASS/SCSS, Tailwind CSS, Material UI, Bootstrap, Webpack, Parcel, Vite (Rollup), Node.js
