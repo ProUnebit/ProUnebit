@@ -6,7 +6,7 @@
 ---
 
 ### Others:
-🎮 C++, Unreal Engine, Blueprints
+🎮 Unreal Engine, Blueprints, C++
 
 
 <!--
