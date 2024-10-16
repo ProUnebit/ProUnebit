@@ -1,7 +1,7 @@
 [**my resume...**](https://github.com/ProUnebit/Resume)  👈
 
 ### Main skills:
-👨🏼‍💻 JavaScript, TypeScript, React, Redux, Effector, HTML, SASS/SCSS, Tailwind CSS, Material UI, Bootstrap, Webpack, Parcel, Rollup, Node.js
+👨🏼‍💻 JavaScript, TypeScript, React, Redux, Effector, Zustand, HTML, SASS/SCSS, Tailwind CSS, Styled-components, Webpack, Vite, Node.js
 
 ---
 
