@@ -1,6 +1,6 @@
 [**my resume...**](https://github.com/ProUnebit/Resume)  👈
 
-### Main skills:
+### Main technical skills:
 👨🏼‍💻 JavaScript, TypeScript, React, Redux, Effector, Zustand, GSAP, Webpack, Vite, Node.js, Git, AI
 
 ---
