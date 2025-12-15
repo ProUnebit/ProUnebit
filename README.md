@@ -6,7 +6,7 @@
 ---
 
 ### Others:
-🎮 Unreal Engine, C++
+🎮 Unreal Engine
 
 
 <!--
