@@ -2,7 +2,7 @@
 
 ### Technical skills:
 JavaScript, TypeScript, React, Zustand, Redux, Effector, RTK/TanStack Query, Next.js, REST/GraphQL/WebSockets, GSAP, Three.js, <br/>
-Webpack, Vite, Unit & Integration Testing, Supabase, SQL, Drizzle ORM, Node.js, Git, CI/CD, n8n, AI
+Webpack, Vite, Unit & Integration Testing, Supabase, SQL, Drizzle ORM, Node.js, Git, CI/CD, n8n, Claude Code
 
 ---
 
