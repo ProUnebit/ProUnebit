@@ -1,6 +1,6 @@
 [**CV Repo**](https://github.com/ProUnebit/Resume)  👈
 
-### SENIOR FRONTEND SOFTWARE ENGINEER:
+### Senior Frontend Software Engineer:
 TypeScript • React • Next.js • BFF • AI Features • Graphics
 
 ---
